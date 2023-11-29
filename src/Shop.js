@@ -1,10 +1,10 @@
 import React from "react";
 import "./styles.css";
 
-export default function Shop() {
+export default function Contact() {
   return (
     <div>
-       Shop Page
+      Contact
     </div>
   );
 }

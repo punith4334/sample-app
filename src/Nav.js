@@ -8,7 +8,7 @@ export default function Nav() {
       <ul className="nav-links">
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
-        <Link to="/shop">Shop</Link>
+        <Link to="/shop">Contact</Link>
         <Link to="/WeatherApp">Weather</Link>
       </ul>
     </div>
