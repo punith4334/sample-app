@@ -16,7 +16,7 @@
   justify-content: space-around;
   align-items: center;
   color: #171616;
-  background: rgba(29, 161, 242, 1);
+  background: rgb(225, 95, 8);
 }
 
 .App .navbar .nav-links {
@@ -29,4 +29,8 @@
 .App .navbar .nav-links>a{
   color: #fff;
   text-decoration: none;
+}
+.para{
+  color: rgb(13, 13, 13);
+  font-size:xx-large ;
 }
